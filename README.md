@@ -1,5 +1,6 @@
 # My Online Store
 
+![Screenshot 2024-09-17 at 07 55 41](https://github.com/user-attachments/assets/308f5cf0-e67c-4ddb-910e-e72a3558a2ef)
 
 ## Project Overview
 
