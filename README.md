@@ -1,11 +1,9 @@
-# MyE-commerceStore (BioSync)
+# My Online Store
 
-
-<img width="1277" alt="Screenshot 2024-09-11 at 12 10 07" src="https://github.com/user-attachments/assets/79a9dc7c-0d55-4c28-b1d8-3460acf22b8d">
 
 ## Project Overview
 
-MyE-commerceStore is a web-based retail application designed to demonstrate the capabilities of Angular and Node.js in creating a dynamic and responsive online shopping experience. This project serves as the MVP (Minimum Viable Product) for an e-commerce platform, allowing users to browse products, manage a shopping cart, and complete purchases securely.
+My online Store is a web-based retail application designed to demonstrate the capabilities of Angular and Node.js in creating a dynamic and responsive online shopping experience. This project serves as the MVP (Minimum Viable Product) for an e-commerce platform, allowing users to browse products, manage a shopping cart, and complete purchases securely.
 
 ### Tagline
 Empowering your shopping experience with technology-driven solutions.
